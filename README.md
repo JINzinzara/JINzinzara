@@ -1,4 +1,4 @@
-# HYUNJIN, LIM
+# JINJIN
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3182BD?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyunjin-lim-83b09a396)
 [![Email](https://img.shields.io/badge/Email-08519C?style=flat-square)](mailto:limhyunjin@gmail.com)
 
